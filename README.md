@@ -3,7 +3,7 @@
 This repository contains my **personal Obsidian notes** created while preparing for the **AWS Solutions Architect Associate (SAA) exam**.
 
 ## About the Notes
-- These notes were built while following **Adrian Cantrill's** and **Stéphane Maarek's AWS Solutions Architect Associate courses**, which are both excellent in their own ways.  
+- These notes were built while following **Adrian Cantrill's** and **Stéphane Maarek's AWS Solutions Architect Associate courses**, which are both excellent in their own ways.
   - Adrian Cantrill's course is incredibly **visual and deep**, with detailed diagrams that truly explain AWS concepts.
   - Stéphane Maarek's course is **exam-focused and concise**, which is great for reinforcing key topics and practicing for the exam.
 - Some **screenshots from Adrian’s course** are included, as his diagrams are extremely useful for visualizing AWS architectures.
