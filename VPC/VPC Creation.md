@@ -1,5 +1,3 @@
-#Amazon 
-
 The first decision point that **<span class="red-text">must</span> be decided in advance** is the CIDR range. Some questions we must answer:
 
 1. What size should the VPC be?
@@ -18,9 +16,7 @@ Create 4 availability zones for the VPC (3 normal + 1 extra)
 Create 4 tiers (web / app / db / spare)
 This means you need 16 subnets (/20)
 
-![[VPCStucture-1.png]]
-
-
+<img width="3008" height="1692" alt="VPCStucture-1" src="https://github.com/user-attachments/assets/8da9f2f7-7ab2-486a-883a-a3a385a6cb4e" />
 
 
 ---
