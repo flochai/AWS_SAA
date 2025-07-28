@@ -17,3 +17,9 @@ This repository contains my **personal Obsidian notes** created while preparing 
 1. Clone this repository:
    ```bash
    git clone https://github.com/flochai/AWS.git
+
+## Disclaimer
+
+These notes are my **personal study notes** for the AWS Solutions Architect Associate exam.  
+They may contain **mistakes, oversimplifications, or incomplete information**, as they are primarily meant for my own learning and revision.  
+Use them at your own risk, and always refer to the **official AWS documentation** and training materials for accurate and up-to-date information.
