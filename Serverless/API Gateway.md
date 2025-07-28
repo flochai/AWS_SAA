@@ -25,12 +25,12 @@ Caching (500MB to 237GB) is done on the stage level and allows for reduced load 
 
 <span class="red-text">Exam Tips: </span>
 
-> 4XX ------> client side, invalid request 
-> 5XX ------> server side, valid request
-> 400 ------> Bad request 
-> 403 ------> Access Denied
-> 429 ------> throttling, amount of request exceeded
-> 502 ------> Bad Gateway Exception - bad output returned by Lambda
-> 503 ------> service unavailable
-> 504 ------> Integration Failure / Timeout - 29s limit 
+> 4XX ------> client side, invalid request <br>
+> 5XX ------> server side, valid request <br>
+> 400 ------> Bad request <br>
+> 403 ------> Access Denied <br>
+> 429 ------> throttling, amount of request exceeded <br>
+> 502 ------> Bad Gateway Exception - bad output returned by Lambda <br>
+> 503 ------> service unavailable <br>
+> 504 ------> Integration Failure / Timeout - 29s limit <br>
 
