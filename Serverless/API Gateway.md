@@ -4,12 +4,12 @@ The API Gateway is a managed service that acts as an endpoint or entry point for
 
 It provides HTTP, REST or Websocket APIs. 
 
-![[Pasted image 20250726163956.png]]
+<img width="957" height="464" alt="Pasted image 20250726163956" src="https://github.com/user-attachments/assets/05f56d00-fc66-494a-80e7-d5fdf9dba0ae" />
 
 ### 1. Authentification 
 
 API can be run with or without authentification .
-[[Cognito]] is one of the services that is easily integrated for authentification. 
+Cognito is one of the services that is easily integrated for authentification. 
 
 ### 2. Endpoint Types
 
