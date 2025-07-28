@@ -34,5 +34,3 @@ Caching (500MB to 237GB) is done on the stage level and allows for reduced load 
 > 503 ------> service unavailable
 > 504 ------> Integration Failure / Timeout - 29s limit 
 
-
-[[Lambda]]
