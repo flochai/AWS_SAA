@@ -1,5 +1,3 @@
-#Amazon 
-
 The API Gateway is a managed service that acts as an endpoint or entry point for apps and allows us to create and manage API. It can serve as a consistent front end in AWS and/or on-premises. 
 
 It provides HTTP, REST or Websocket APIs. 
@@ -36,8 +34,5 @@ Caching (500MB to 237GB) is done on the stage level and allows for reduced load 
 > 503 ------> service unavailable
 > 504 ------> Integration Failure / Timeout - 29s limit 
 
----
-Links:
 
-[[AWS Index]]
 [[Lambda]]
