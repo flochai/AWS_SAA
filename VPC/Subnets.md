@@ -1,5 +1,3 @@
-#Amazon 
-
 Subnets are AZ resilient and used to add structure as well as resiliency to the [[VPCs]]. The CIDR of the subnet can not overlap with any other subnet in the VPC and must be part of the VPC CIDR range. Subnets in a VPC can communicate together by default. 
 
 <span class="red-text">A subnet can only be in one availability zone. </span>
