@@ -9,3 +9,8 @@ It is possible to make interesting multi-sites architectures using the File Gate
 
 
 <img width="1153" height="597" alt="image" src="https://github.com/user-attachments/assets/4f5ebbce-4488-48e2-a425-6e45cd244268" />
+
+Is is possible to combine File Gateway with Lifecyle: 
+
+<img width="1196" height="565" alt="image" src="https://github.com/user-attachments/assets/543353f3-02f3-4ccb-b086-6616cf62807d" />
+
