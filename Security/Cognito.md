@@ -14,12 +14,12 @@ Cognito provides 2 main services for authentification, authorization and user ma
 > an IAM role configured in the identity pool is assigned to this temporary identity
 
 
-![[Pasted image 20250727104303.png]]
+<img width="1786" height="924" alt="Pasted image 20250727104303" src="https://github.com/user-attachments/assets/5be2d986-1c9e-48f2-8c6f-5b0a19966410" />
+
 
 The user pool simplifies the management of identity tokens by only using one type of token for all users, the JWT. This process allows for a near unlimited number of users which is much better than the 5000 IAM users. 
 
-![[Pasted image 20250727104806.png]]
-
+<img width="1792" height="922" alt="Pasted image 20250727104806" src="https://github.com/user-attachments/assets/7e8ad169-d130-4f2a-8c46-19f1d1443ccc" />
 
 ---
 Links:
